@@ -1,1 +1,3 @@
 # Task_3
+This project implements both simple and multiple linear regression techniques to predict house prices based on features like area, number of bedrooms, and bathrooms. The model is built using scikit-learn, with data preprocessing and visualization handled by pandas and matplotlib. I imported and preprocessed the dataset (handling missing values, selecting features)and then split the data into training and testing sets.Then trained a Linear Regression model to fit the data and evaluated the model performance using MAE, MSE, and R² score.I also wrote a code that visualized actual vs predicted prices and finally I
+interpreted the model coefficients to understand feature impact on pricing.
